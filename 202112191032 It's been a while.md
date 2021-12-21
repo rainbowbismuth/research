@@ -7,7 +7,9 @@ But my interests have moved beyond only journaling: I want to become a more thor
 I'm not going to go on and on about any particular note system or philosophy but here's the idea:
 
 * A public repository on GitHub for my reading & research notes.
-* At work I will pull from that remote, and add my own work notes. I'll make it impossible to accidentally push back to GitHub.
-* At home I will do that same, except I'll be layering my journal on top. Again, I'll make it impossible to push journal contents back.
+* At work I will pull from that remote, and add my own work notes.
+* At home I will do that same, except I'll be layering my journal on top.
+
+[[202112211304 You can set up a fetch-only remote in git]] to make it impossible to push to a place you don't mean to.
 
 That's it.
