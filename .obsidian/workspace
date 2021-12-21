@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "b5056b25ecf959a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1beeb804fca1b25",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202112210841 Forward compatibility.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef1ece474cac36f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fd85602c2413a51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9242478c1858748",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "948569b4a7d261e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302
+  },
+  "right": {
+    "id": "419d45cbbbff0a31",
+    "type": "split",
+    "children": [
+      {
+        "id": "18a2edcd0a71a821",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2012817fb6e5eb2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202112210841 Forward compatibility.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "b1beeb804fca1b25",
+  "lastOpenFiles": [
+    "202112210841 Forward compatibility.md",
+    "202112210843 Backwards compatibility.md",
+    "202112191032 It's been a while.md",
+    "202112210920.md",
+    "202112181308.md",
+    "202112181309 this is.md",
+    "Untitled.md"
+  ]
+}
