@@ -1,0 +1,2 @@
+# Permanent notes are densely linked to form new connections
+By linking [[202112251601 Permanent notes]] together, you make it more likely to encounter connections you did not expect. Each link can also serve as evidence for an argument, allowing you build up chains of reasoning in a way that you couldn't with a linear piece of writing.

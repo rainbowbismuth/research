@@ -1,0 +1,2 @@
+# Reference Note
+A reference note is a note about a particular piece of reference material, like a book or an article. They are meant to be brief and only contain a high level summary of what you found interesting about the material.
