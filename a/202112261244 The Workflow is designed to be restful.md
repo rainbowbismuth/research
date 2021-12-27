@@ -1,4 +1,4 @@
 # The Workflow is designed to be restful
 [[202112251611 The Workflow]] is designed to be restful because [[202112261243 Rest is crucial]]. By putting context and thinking down on paper in [[202112251559 Fleeting notes]] and [[202112251601 Permanent notes]], it becomes easier to stop and take breaks without losing track.
 
-Since [[202112261237 Adaptation decreases energy costs]], having a standard general purpose process that is well worn allows you to capture those savings more often. [[202112261418 Open threads continiously consume energy]] and having a process you can trust increases your ability to close those threads while resting.
+Since [[202112261237 Adaptation decreases energy costs]], having a standard general purpose process that is well worn allows you to capture those savings more often. [[202112261418 Open threads continuously consume energy]] and having a process you can trust increases your ability to close those threads while resting.

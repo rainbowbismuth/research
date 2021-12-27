@@ -1,0 +1,2 @@
+# Negative associations to effort lead to burnout
+When your efforts do not lead to a reward, you learn that you cannot effect the positive change you want to see in the world or in yourself. This leads to [[202112261610 Burnout]], a state where you can no longer bring yourself to put forth new effort.
