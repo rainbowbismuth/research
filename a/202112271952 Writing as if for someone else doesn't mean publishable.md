@@ -1,0 +1,2 @@
+# Writing as if for someone else doesn't mean publishable
+It is like writing code for the future version of you, the point isn't necessarily to make it into a product or to show it off, the point is to acknowledge that you will be different in the future and not remember or know the same context that you do now.
