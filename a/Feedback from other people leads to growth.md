@@ -1,2 +1,2 @@
 # Feedback from other people leads to growth
-Receiving feedback from other people leads to growth because.... #comeback
+Receiving feedback from other people leads to growth because they can pick up stuff you miss, as long as you go to the right person. It can also lead you to present your argument in a clearer way when you know someone is going to see it.
