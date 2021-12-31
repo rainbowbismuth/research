@@ -1,0 +1,2 @@
+# Take notes that lead to discussion
+When taking [[Fleeting notes]], it is often helpful to think about what kind of discussion could take place in your own notes in response to the current note you are writing. [[Better thinking is what is important about note taking]], and discussions are a good way to compare contrasting ideas and facts. 

@@ -1,0 +1,2 @@
+# Taking a bottom up viewpoint
+When reading, or writing [[Fleeting notes]] and [[Permanent notes]] notes, it's important to take a bottom up viewpoint where you don't start with a conclusion or project in mind. [[Permanent notes are general purpose]], and if you read with your lens adjusted to a specific goal you might only see what is relevant to that goal and not what could be interesting for future projects.

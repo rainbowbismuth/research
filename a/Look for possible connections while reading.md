@@ -1,0 +1,2 @@
+# Look for possible connections while reading
+While reading a text, look for possible connections to what you have already written in your [[Permanent notes]]. This will help generate insight and understanding by linking the material to your context.
