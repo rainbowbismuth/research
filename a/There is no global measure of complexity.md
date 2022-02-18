@@ -1,0 +1,2 @@
+# There is no global measure of complexity
+Because [[The complexity of a system is relative to a specific goal and time]], there can be no global measure of complexity. Even more fundamentally, since [[Complexity is anything that makes it hard to understand and change a system]], there is a specific person or set of people who needs to *perform* the understanding and changes, and people have different sets of knowledge and mental capabilities.
